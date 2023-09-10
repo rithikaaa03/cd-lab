@@ -1,0 +1,6 @@
+1 returnSum int func -1 1
+2 main int func -1 0
+3 a12 int id 4 0
+4 _character char id 1 0
+
+==x==x==x===x==

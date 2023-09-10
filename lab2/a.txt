@@ -1,0 +1,8 @@
+#include <stdio.h>
+hi  ok   bye   hell   ooo
+             bye       eeee
+             	yguyguy
+1break
+break_="a";
+"if"
+if

@@ -1,0 +1,22 @@
+<int, 1, 1, Keyword>
+<returnSum, 1, 5, Identifier>
+<(, 1, 14, LB>
+<;, 1, 15, SS>
+<int, 2, 1, Keyword>
+<main, 2, 5, Identifier>
+<(, 2, 9, LB>
+<{, 3, 1, LC>
+<int, 4, 2, Keyword>
+<a12, 4, 6, Identifier>
+<=, 4, 9, Assignment Operator>
+<10, 4, 11, Number>
+<;, 4, 13, SS>
+<a12, 5, 2, Identifier>
+<++, 5, 5, Unary Operator>
+<;, 5, 7, SS>
+<char, 6, 2, Keyword>
+<_character, 6, 7, Identifier>
+<=, 6, 18, Assignment Operator>
+<'B', 6, 20, String Literal>
+<;, 6, 21, SS>
+<}, 7, 1, RC>
